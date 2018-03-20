@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#057CA5</color>
+    <color name="colorAccent">#69F0AE</color>
+    <color name="acceptColor">#4CAF50</color>
+    <color name="rejectColor">#D32F2F</color>
+    <color name="questionColor">#56B48C</color>
+    <color name="textColor">#557884</color>
+    <color name="green">#00cb67</color>
+
+    <color name="tile1">#f06292</color>
+    <color name="tile2">#7e57c2</color>
+    <color name="tile3">#4db6ac</color>
+    <color name="tile4">#4dd0e1</color>
+    <color name="tile5">#ff7043</color>
+    <color name="tile6">#ab47ab</color>
+</resources>

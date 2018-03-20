@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Saksham</string>
+    <string name="shaksham">SAKSHAM</string>
+    <string name="deaf">For Deaf</string>
+    <string name="mute">For Mute</string>
+    <string name="blind">For Blind</string>
+    <string name="trace_alphabet">Trace Alphabets</string>
+    <string name="trace_nembers">Trace Numbers</string>
+    <string name="draw_alpha">Draw Alphabets</string>
+    <string name="draw_digit">Draw Digits</string>
+    <string name="deaf_pronounce">Pronounce Alphabets</string>
+    <string name="speech_prompt">Say something</string>
+    <string name="learn_gestures">Learn Gestures</string>
+    <string name="practice_gestures">Practice Gestures</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_n_speak">TAP THE BUTTON AND SPEAK</string>
+</resources>
